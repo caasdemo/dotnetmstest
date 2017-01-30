@@ -1,0 +1,8 @@
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\bin\Debug\DotNetMultiTestMSTest2.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\bin\Debug\DotNetMultiTestMSTest2.pdb
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\bin\Debug\DotNetMultiTestLib.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\bin\Debug\DotNetMultiTestLib.pdb
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\obj\Debug\DotNetMultiTestMSTest2.csprojResolveAssemblyReference.cache
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\obj\Debug\DotNetMultiTestMSTest2.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestMSTest2\obj\Debug\DotNetMultiTestMSTest2.pdb

@@ -1,0 +1,4 @@
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\bin\Debug\DotNetMultiTestLib.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\bin\Debug\DotNetMultiTestLib.pdb
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\obj\Debug\DotNetMultiTestLib.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\obj\Debug\DotNetMultiTestLib.pdb
