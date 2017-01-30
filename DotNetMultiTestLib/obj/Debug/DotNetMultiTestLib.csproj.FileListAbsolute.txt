@@ -2,3 +2,6 @@ D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\bin\Debug\DotNetMultiTestL
 D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\bin\Debug\DotNetMultiTestLib.pdb
 D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\obj\Debug\DotNetMultiTestLib.dll
 D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\obj\Debug\DotNetMultiTestLib.pdb
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\bin\Debug\Newtonsoft.Json.dll
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\bin\Debug\Newtonsoft.Json.xml
+D:\DotNetMultiTest\DotNetMultiTest\DotNetMultiTestLib\obj\Debug\DotNetMultiTestLib.csprojResolveAssemblyReference.cache
