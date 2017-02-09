@@ -11,7 +11,7 @@ namespace DotNetMultiTestMSTest1
         {
             SampleLib lib = new SampleLib();
             var result=lib.GetValueByIndex(0);
-            Assert.AreEqual("Hello", result);
+            Assert.AreEqual("Hello Test", result);
         }
     }
 }
